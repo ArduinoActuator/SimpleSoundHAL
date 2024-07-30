@@ -1,0 +1,31 @@
+  
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SimpleSoundType      KEYWORD1
+SimpleSoundFunctionReturnValue KEYWORD1
+SimpleSound          KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+on	KEYWORD2
+off     KEYWORD2
+play     KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SIMPLE_SOUND_TYPE_PULL_UP	LITERAL1
+SIMPLE_SOUND_TYPE_PULL_DOWN	LITERAL1
+FUNCTION_UNSUPPORTED	LITERAL1
+FUNCTION_SUCCESS	LITERAL1
+FUNCTION_FAIL	LITERAL1
+
+
