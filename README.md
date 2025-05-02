@@ -1,23 +1,22 @@
 # SimpleSoundHAL
 
 
-## 外部リンク
+スピーカーやブザーのON/OFFを切り替えて，音を出すためのHardware Abstraction Layer.
+
+
+## 動作確認済みデバイス
+
+- [Grove スピーカー][GroveSpeaker]
+- [Grove ブザー][GroveBuzzer]
+
+
+<!-- 以下は，外部リンクの定義 
 - Adafruit Unified Sensor Driver - [https://github.com/adafruit/Adafruit_Sensor][AdafruitUSD]
-- Groveシールド - [https://www.seeedstudio.com/Base-Shield-V2-p-1378.html][shield]
-- Arduino M0 Pro - [https://store.arduino.cc/usa/arduino-m0-pro][M0Pro]
-- Arduino Due - [https://store.arduino.cc/usa/arduino-due][Due]
-- Arduino Uno R3 - [https://store.arduino.cc/usa/arduino-uno-rev3][Uno]
-- Arduino Uno WiFi - [https://store.arduino.cc/usa/arduino-uno-wifi-rev2][UnoWiFi]
-- Arduino Leonardo Ethernet - [https://store.arduino.cc/usa/arduino-leonardo-eth][LeonardoEth]
-- Arduino Mega2560 R3 - [https://store.arduino.cc/usa/arduino-mega-2560-rev3][Mega]
-- Arduino Pro mini 328 - 3.3V/8MHz - [https://www.sparkfun.com/products/11114][ProMini]
-- ESPr developer - [https://www.switch-science.com/catalog/2652/][ESPrDev]
-- ESPr Developer用GROVEシールド - [https://www.switch-science.com/catalog/2811/][ESPrDevShield]
-- ESPr one 32 - [https://www.switch-science.com/catalog/3555/][ESPrOne32]
-- Grove - [https://www.seeedstudio.io/category/Grove-c-1003.html][Grove]
-- Seed Studio - [https://www.seeedstudio.io/][SeedStudio]
-- Sparkfun Electronics - [https://www.sparkfun.com/][Sparkfun]
-- スイッチサイエンス - [https://www.switch-science.com/][SwitchScience]
+-->
+
+<!-- 以下は，外部リンクの定義 -->
+[GroveSpeaker]:https://jp.seeedstudio.com/Grove-Speaker-p-1445.html <!-- Grove スピーカー -->
+[GroveBuzzer]:https://jp.seeedstudio.com/Grove-Buzzer.html <!-- Grove ブザー -->
 
 <!-- 以下は，外部リンクの定義 -->
 [GroveBarometerSensorBMP180]:http://wiki.seeedstudio.com/Grove-Barometer_Sensor-BMP180/
