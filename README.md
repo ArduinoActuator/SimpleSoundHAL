@@ -14,9 +14,10 @@
 - Adafruit Unified Sensor Driver - [https://github.com/adafruit/Adafruit_Sensor][AdafruitUSD]
 -->
 
-<!-- 以下は，外部リンクの定義 -->
-[GroveSpeaker]:https://jp.seeedstudio.com/Grove-Speaker-p-1445.html <!-- Grove スピーカー -->
-[GroveBuzzer]:https://jp.seeedstudio.com/Grove-Buzzer.html <!-- Grove ブザー -->
+<!-- Grove スピーカー -->
+[GroveSpeaker]:https://jp.seeedstudio.com/Grove-Speaker-p-1445.html
+<!-- Grove ブザー -->
+[GroveBuzzer]:https://jp.seeedstudio.com/Grove-Buzzer.html
 
 <!-- 以下は，外部リンクの定義 -->
 [GroveBarometerSensorBMP180]:http://wiki.seeedstudio.com/Grove-Barometer_Sensor-BMP180/
